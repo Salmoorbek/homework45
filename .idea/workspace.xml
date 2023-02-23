@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff26235-ec7c-4357-b0da-774a2d9377fe" name="Changes" comment="" />
+    <list default="true" id="7ff26235-ec7c-4357-b0da-774a2d9377fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/libraries/freemarker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bg/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/freemarker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/harry_potter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/pereshmeshnik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/vlastelin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/BookModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/EmployeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Lesson44Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Lesson45Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/lesson44/SampleDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/server/BasicServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/server/ContentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/server/ResponseCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/server/RouteHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kz/attractor/java/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/freemarker.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +67,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/salmoorbek/Desktop/homework45",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
